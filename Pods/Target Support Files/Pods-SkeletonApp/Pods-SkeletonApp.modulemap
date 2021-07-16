@@ -1,0 +1,6 @@
+framework module Pods_SkeletonApp {
+  umbrella header "Pods-SkeletonApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
